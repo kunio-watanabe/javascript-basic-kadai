@@ -1,5 +1,5 @@
 const all = (num) => {
-    return num*10 ;
+    return num*num ;
 }
 
 console.log(all(10));
